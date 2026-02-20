@@ -1,2 +1,21 @@
-# pizza-billing-system
-Java-based console application demonstrating OOP principles such as inheritance, encapsulation, and method overriding through a Pizza Billing System.
+# Pizza Billing System (Java OOP Project)
+
+This is a simple Java-based console application to simulate a pizza billing system.
+
+## Features
+- Veg / Non-Veg Pizza selection
+- Add Extra Cheese
+- Add Extra Toppings
+- Takeaway Option
+- Deluxe Pizza (Includes cheese & toppings by default)
+
+## OOP Concepts Used
+- Inheritance
+- Method Overriding
+- Encapsulation
+- Constructor usage
+- Boolean flags
+
+## How to Run
+1. Compile all Java files
+2. Run Main.java
