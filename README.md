@@ -23,3 +23,9 @@ This is a simple Java-based console application to simulate a pizza billing syst
 ## Sample Output
 
 ![Program Output](img/output.png)
+
+##Code Image
+![Main program](img/Main.png)
+![Pizza code](img/MethodsCode0.png)
+![Pizza code](img/MethodsCode1.png)
+![Deluxe Pizza code](img/Deluxepizza.png)
