@@ -19,3 +19,7 @@ This is a simple Java-based console application to simulate a pizza billing syst
 ## How to Run
 1. Compile all Java files
 2. Run Main.java
+
+## Sample Output
+
+![Program Output](img/output.png)
