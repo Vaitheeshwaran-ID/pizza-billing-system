@@ -2,7 +2,7 @@
 public class main {
 
 	public static void Main(String[] args) {
-		boolean veg;
+		boolean nonveg;
 		pizza basepizza=new pizza(true);
 		deluxepizza dp=new deluxepizza(true);
 		
